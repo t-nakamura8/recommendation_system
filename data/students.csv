@@ -1,0 +1,11 @@
+id,職種,仕事内容,会社情報,業界,企業規模,業態,勤務地,必要経験,必要言語,必要学歴,その他条件
+1,Web Developer,Develop web apps,Leading tech company,Tech,Medium,Startup,Tokyo,3,Python,University,Certified AWS
+2,Data Scientist,Analyze large datasets,Top finance firm,Finance,Large,Corporate,Osaka,2,R,PhD,Certified Data Scientist
+3,Backend Developer,Manage cloud infrastructure,Innovative healthcare company,Healthcare,Small,Startup,Kyoto,4,Java,Bachelor,Certified Kubernetes Administrator
+4,Frontend Developer,Design user interfaces,Media company,Media,Medium,Corporate,Fukuoka,3,JavaScript,University,Certified Web Designer
+5,Mobile Developer,Develop mobile applications,Education startup,Education,Small,Startup,Nagoya,2,Kotlin,Masters,Certified Android Developer
+6,Machine Learning Engineer,Develop machine learning models,Tech giant,Tech,Large,Corporate,Tokyo,5,Python,PhD,Certified ML Engineer
+7,Data Engineer,Build data pipelines,Finance startup,Finance,Medium,Startup,Osaka,3,Scala,Bachelor,Certified Big Data Professional
+8,DevOps Engineer,Automate infrastructure,Healthcare startup,Healthcare,Small,Startup,Kyoto,4,Docker,Bachelor,Certified DevOps Engineer
+9,Security Engineer,Conduct security audits,Finance corporation,Finance,Large,Corporate,Tokyo,5,Go,Masters,Certified Security Professional
+10,QA Engineer,Implement automated tests,Tech company,Tech,Medium,Corporate,Fukuoka,3,Java,University,Certified QA Engineer
