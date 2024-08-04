@@ -1,11 +1,31 @@
-id,職種,仕事内容,会社情報,業界,企業規模,業態,勤務地,必要経験,必要言語,必要学歴,その他条件
-1,Web Developer,Develop web apps,Leading tech company,Tech,Medium,Startup,Tokyo,3,Python,University,Certified AWS
-2,Data Scientist,Analyze large datasets,Top finance firm,Finance,Large,Corporate,Osaka,2,R,PhD,Certified Data Scientist
-3,Backend Developer,Manage cloud infrastructure,Innovative healthcare company,Healthcare,Small,Startup,Kyoto,4,Java,Bachelor,Certified Kubernetes Administrator
-4,Frontend Developer,Design user interfaces,Media company,Media,Medium,Corporate,Fukuoka,3,JavaScript,University,Certified Web Designer
-5,Mobile Developer,Develop mobile applications,Education startup,Education,Small,Startup,Nagoya,2,Kotlin,Masters,Certified Android Developer
-6,Machine Learning Engineer,Develop machine learning models,Tech giant,Tech,Large,Corporate,Tokyo,5,Python,PhD,Certified ML Engineer
-7,Data Engineer,Build data pipelines,Finance startup,Finance,Medium,Startup,Osaka,3,Scala,Bachelor,Certified Big Data Professional
-8,DevOps Engineer,Automate infrastructure,Healthcare startup,Healthcare,Small,Startup,Kyoto,4,Docker,Bachelor,Certified DevOps Engineer
-9,Security Engineer,Conduct security audits,Finance corporation,Finance,Large,Corporate,Tokyo,5,Go,Masters,Certified Security Professional
-10,QA Engineer,Implement automated tests,Tech company,Tech,Medium,Corporate,Fukuoka,3,Java,University,Certified QA Engineer
+id,志望職種,エンジニア像,業務関心,就職先要求,興味業界,企業規模,業態,勤務先,経験年数,言語,学歴,ガクチカ,自己PR,資格
+1,Web Developer,Full Stack,Web Development,Remote Work,Tech,Medium,Startup,Tokyo,3,Python,University,Created a web app,Self-motivated,Certified AWS
+2,Data Scientist,Researcher,Data Analysis,Flexible Hours,Finance,Large,Corporate,Osaka,2,R,PhD,Developed a ML model,Analytical,Certified Data Scientist
+3,Backend Developer,DevOps,Cloud Infrastructure,High Salary,Healthcare,Small,Startup,Kyoto,4,Java,Bachelor,Implemented CI/CD,Detail-oriented,Certified Kubernetes Administrator
+4,Frontend Developer,Creative,UI/UX Design,Team Collaboration,Media,Medium,Corporate,Fukuoka,3,JavaScript,University,Designed a responsive website,Creative thinker,Certified Web Designer
+5,Mobile Developer,Innovator,App Development,Work-life Balance,Education,Small,Startup,Nagoya,2,Kotlin,Masters,Developed a learning app,Problem solver,Certified Android Developer
+6,Machine Learning Engineer,Problem Solver,Machine Learning,Research Opportunities,Tech,Large,Corporate,Tokyo,5,Python,PhD,Published research papers,Innovative,Certified ML Engineer
+7,Data Engineer,Analytical,Big Data,Flexible Schedule,Finance,Medium,Startup,Osaka,3,Scala,Bachelor,Developed data pipelines,Detail-oriented,Certified Big Data Professional
+8,DevOps Engineer,Efficient,Infrastructure Automation,Remote Work,Healthcare,Small,Startup,Kyoto,4,Docker,Bachelor,Automated deployment processes,Efficient,Certified DevOps Engineer
+9,Security Engineer,Thorough,Security Analysis,High Salary,Finance,Large,Corporate,Tokyo,5,Go,Masters,Conducted security audits,Security-minded,Certified Security Professional
+10,QA Engineer,Detail-oriented,Testing,Team Collaboration,Tech,Medium,Corporate,Fukuoka,3,Java,University,Implemented automated tests,Thorough,Certified QA Engineer
+11,Cloud Engineer,Architect,Cloud Solutions,Flexible Hours,Education,Small,Startup,Nagoya,4,AWS,Bachelor,Designed cloud architecture,Architectural thinking,Certified Cloud Architect
+12,AI Engineer,Innovative,AI Development,Research Opportunities,Tech,Large,Corporate,Tokyo,5,Python,PhD,Developed AI models,Innovative,Certified AI Engineer
+13,Game Developer,Creative,Game Design,Work-life Balance,Media,Medium,Startup,Fukuoka,3,C#,University,Designed game mechanics,Creative,Certified Game Developer
+14,Blockchain Developer,Innovator,Blockchain Solutions,High Salary,Finance,Large,Corporate,Osaka,4,Solidity,Bachelor,Implemented blockchain solutions,Innovative,Certified Blockchain Developer
+15,IoT Developer,Problem Solver,IoT Solutions,Remote Work,Healthcare,Small,Startup,Kyoto,3,C++,Masters,Developed IoT devices,Problem solver,Certified IoT Developer
+16,System Administrator,Efficient,System Management,Team Collaboration,Tech,Medium,Corporate,Tokyo,4,Python,Bachelor,Managed IT systems,Efficient,Certified System Administrator
+17,Robotics Engineer,Innovative,Robotics Development,Research Opportunities,Education,Large,Corporate,Nagoya,5,C++,PhD,Developed robotic systems,Innovative,Certified Robotics Engineer
+18,AR/VR Developer,Creative,AR/VR Solutions,Flexible Hours,Media,Medium,Startup,Fukuoka,3,Unity,University,Developed AR apps,Creative thinker,Certified AR/VR Developer
+19,Embedded Systems Engineer,Analytical,Embedded Systems,High Salary,Finance,Large,Corporate,Osaka,4,C,Bachelor,Developed embedded systems,Detail-oriented,Certified Embedded Systems Engineer
+20,Network Engineer,Thorough,Network Management,Remote Work,Healthcare,Small,Startup,Kyoto,3,Cisco,Bachelor,Managed network infrastructure,Thorough,Certified Network Engineer
+21,Web Developer,Full Stack,Web Development,Remote Work,Tech,Medium,Startup,Tokyo,3,Python,University,Created a web app,Self-motivated,Certified AWS
+22,Data Scientist,Researcher,Data Analysis,Flexible Hours,Finance,Large,Corporate,Osaka,2,R,PhD,Developed a ML model,Analytical,Certified Data Scientist
+23,Backend Developer,DevOps,Cloud Infrastructure,High Salary,Healthcare,Small,Startup,Kyoto,4,Java,Bachelor,Implemented CI/CD,Detail-oriented,Certified Kubernetes Administrator
+24,Frontend Developer,Creative,UI/UX Design,Team Collaboration,Media,Medium,Corporate,Fukuoka,3,JavaScript,University,Designed a responsive website,Creative thinker,Certified Web Designer
+25,Mobile Developer,Innovator,App Development,Work-life Balance,Education,Small,Startup,Nagoya,2,Kotlin,Masters,Developed a learning app,Problem solver,Certified Android Developer
+26,Machine Learning Engineer,Problem Solver,Machine Learning,Research Opportunities,Tech,Large,Corporate,Tokyo,5,Python,PhD,Published research papers,Innovative,Certified ML Engineer
+27,Data Engineer,Analytical,Big Data,Flexible Schedule,Finance,Medium,Startup,Osaka,3,Scala,Bachelor,Developed data pipelines,Detail-oriented,Certified Big Data Professional
+28,DevOps Engineer,Efficient,Infrastructure Automation,Remote Work,Healthcare,Small,Startup,Kyoto,4,Docker,Bachelor,Automated deployment processes,Efficient,Certified DevOps Engineer
+29,Security Engineer,Thorough,Security Analysis,High Salary,Finance,Large,Corporate,Tokyo,5,Go,Masters,Conducted security audits,Security-minded,Certified Security Professional
+30,QA Engineer,Detail-oriented,Testing,Team Collaboration,Tech,Medium,Corporate,Fukuoka,3,Java,University,Implemented automated tests,Thorough,Certified QA Engineer
